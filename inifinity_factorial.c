@@ -147,7 +147,7 @@ void charify(int n,char arr[]){
 int main(){
 
    
-    printf("Enter the multiplicand and the multiplier:\n");
+    printf("What factorial do you need:\n");
 
     int n=0;
     scanf("%d",&n);
